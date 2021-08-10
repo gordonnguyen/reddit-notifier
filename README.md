@@ -3,10 +3,10 @@
 <br />
 <p align="center">
 
-  <h3 align="center">10fastfingers Auto Type</h3>
+  <h3 align="center">Reddit Notifier</h3>
 
   <p align="center">
-    An Over-complicated Auto Type Program
+    Descriptions here
     <br />
     <br />
     <a href="https://github.com/gordon-nguyen/10fastfingers-auto-type/issues">Report Bug</a>
