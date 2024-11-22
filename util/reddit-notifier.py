@@ -1,11 +1,11 @@
 import requests
 import pandas as pd
 
-auth = requests.auth.HTTPBasicAuth('oK3dTEYR7exUog', 'D2sVNa17qetOcmp35iA4LaPwec2Qkg')
+auth = requests.auth.HTTPBasicAuth('insert_key', 'insert_key')
 
 data = {'grant_type': 'password',
-    'username': 'GordonNguyen',
-    'password': 'nhunhanss'}
+    'username': 'insert_username',
+    'password': 'insert_password'}
 
 headers = {'User-Agent': 'MyBot/0.1'}
 
